@@ -1,1 +1,1 @@
-var reg = document.queryselector('#reg')
+console.log(a)
